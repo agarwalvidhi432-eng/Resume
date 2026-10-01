@@ -1,6 +1,6 @@
 # Vidhi Agarwal — Portfolio
 
-A single-page portfolio site for **Vidhi Agarwal** — commerce graduate, CA Foundation cleared,
+A single-page portfolio site for **Vidhi Agarwal** — B.Com graduate, CA Foundation cleared,
 working in Tally Prime, GST, bookkeeping and Advanced Excel / MIS reporting.
 
 Static HTML, CSS and vanilla JavaScript. **No build step, no dependencies, no framework** —
